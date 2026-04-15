@@ -70,10 +70,9 @@ Make sure you have the following installed:
 
 ## Project Contributors
 
-1. Ahnaf
-2. Snigdha
-3. Minhal
-4. Akib
+1. Sajid Arefin Mahin
+2. Rubaidul Muaz
+3. Imran Nazir
 
 ## Game Modes
 
