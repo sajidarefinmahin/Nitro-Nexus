@@ -104,7 +104,7 @@ Make sure you have the following installed:
 - Dynamic background scenery
 
 ## YouTube Link
-[CSE 1200 Project: Nitro Nexus](https://youtube.com/shorts/xPmd6wZT2og?feature=share)](https://youtu.be/YUEv-KMrkpM?si=CYKhkrbSiwpmp9CY))
+[CSE 1200 Project: Nitro Nexus](https://youtube.com/shorts/xPmd6wZT2og?feature=share)
 
 ## Project Report
 [Project Report: Nitro Nexus](https://drive.google.com/file/d/1GCkAtVIdb5IcFK6SUtD_Fk5k9Pj5bln1/view?usp=sharing)
